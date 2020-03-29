@@ -1,0 +1,15 @@
+/* CSS Documento */
+
+/* comentário */
+html{
+    font-size:15px; color:#000; font-family:verdana, arial, san-serif;
+background-color:#d3d3d3;
+margin-top: 5%;
+margin-left: 10%;
+margin-bottom: 5%;
+margin-right: 10%}
+H1 {text-align: center;}
+H2,H3 {margin-left: 20px;}
+img {max-width: 600px; max-height: 650px;
+margin-left: 20%}
+comentarios {margin-left: 80%;}
